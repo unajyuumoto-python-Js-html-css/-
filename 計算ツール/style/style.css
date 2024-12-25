@@ -1,0 +1,61 @@
+/*cssのコメントも打ちづらい() cssって汚くかけないな!*/
+
+
+.kBtn{
+background-color:#FFFFFF;
+
+}
+
+.kBtn:hover{
+background-color:#ADADAD;
+
+
+}
+
+.kuro{
+color:#000000;
+}
+
+.aka{
+color:#FF2626;
+
+}
+
+.kBtn {cursor:cell;}
+
+.keisansyuBtn{
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+}
+
+.keisansyuBtn {cursor:cell;}
+
+.kake{
+    background-color:rgb(255, 255, 196)
+}
+.hiku{
+    background-color:lightblue
+}
+.tasu{
+    background-color:lightcoral
+}
+.waru{
+    background-color:rgb(168, 87, 168)
+}
+
+.kake3{
+    background-color:rgb(149, 149, 113);
+}
+
+.hiku3{
+    background-color:rgb(85, 109, 117)
+}
+.tasu3{
+    background-color:rgb(163, 91, 91)
+}
+.waru3{
+    background-color:rgb(97, 51, 97)
+}
+
+/*RGBがぐちゃぐちゃ*/
